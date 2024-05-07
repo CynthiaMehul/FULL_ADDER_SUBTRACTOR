@@ -73,7 +73,7 @@ endmodule
 **RTL Schematic**
 ![exp4 output2](https://github.com/CynthiaMehul/FULL_ADDER_SUBTRACTOR/assets/150319444/944eca0a-393a-48c9-9cfd-ba0327bb56c3)
 
-**Output Timing Waveform**
+**Waveform**
 ![exp4 output1](https://github.com/CynthiaMehul/FULL_ADDER_SUBTRACTOR/assets/150319444/8a88682a-2c06-4a38-a7a5-1d3f98f198d6)
 
 **Result:**
